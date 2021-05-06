@@ -5,3 +5,6 @@ Model will perform image recognition on mobile (android)
 
 Instruction link:
 https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android#0
+
+Link Clone the Git repository
+https://github.com/hoitab/TFLClassify
