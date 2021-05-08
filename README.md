@@ -8,3 +8,6 @@ https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflo
 
 Link Clone the Git repository
 https://github.com/hoitab/TFLClassify
+
+Link get data:
+https://www.kaggle.com/alxmamaev/flowers-recognition
