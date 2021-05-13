@@ -1,12 +1,13 @@
+Source:https://github.com/hoitab/TFLClassify
+
+
 # Recogonize Flowers with TensorFLow Lite Model Maker and Android Studio ML Model Binding
 
 This folder contains the code for the TensorFlow Lite codelab:
 
 * [Recognize Flowers with TensorFlow on Android (Beta)](https://goo.gle/3dbCSbt)
 
-## Introduction:![IMG_3743](https://user-images.githubusercontent.com/81319640/118106724-1af60180-b408-11eb-8c55-26a3cb2eaa9e.jpeg)
-
-![IMG_3742](https://user-images.githubusercontent.com/81319640/118106761-25b09680-b408-11eb-9ca0-a3b57b7e907d.jpeg)
+## Introduction:
 
 
 This beta codelab introduces the latest tooling using TensorFlow Lite Model Maker and Android Studio 4.1 Beta 1 or above. In addition, it will require access to a physical Android device to test. If you prefer to use the stable version of this codelab, follow this codelab instead.
@@ -16,6 +17,14 @@ In these codelabs, you will learn:
 *   How to train your own custom image classifier using [TensorFlow Lite Model Maker](https://www.tensorflow.org/lite/tutorials/model_maker_image_classification).
 *   How to use Android Studio to import the TensorFlow Lite model to integrate the custom model in an Android app using CameraX.
 *   How to use GPU on your phone to accelerate your model.
+
+
+![IMG_3743](https://user-images.githubusercontent.com/81319640/118106724-1af60180-b408-11eb-8c55-26a3cb2eaa9e.jpeg)
+
+![IMG_3742](https://user-images.githubusercontent.com/81319640/118106761-25b09680-b408-11eb-9ca0-a3b57b7e907d.jpeg)
+
+
+
 
 ## Pre-requisites
 
