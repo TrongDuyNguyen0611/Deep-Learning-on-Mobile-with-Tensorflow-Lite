@@ -21,7 +21,7 @@ This folder contains the code for the TensorFlow Lite codelab:
 
 ![IMG_3742](https://user-images.githubusercontent.com/81319640/118106761-25b09680-b408-11eb-9ca0-a3b57b7e907d.jpeg)
 
-
+![IMG_0927](https://user-images.githubusercontent.com/81319640/164982391-cbc0b045-6f09-46a9-b104-12ba34d98eb8.PNG)
 
 
 ## Pre-requisites
